@@ -43,9 +43,9 @@ SOFTWARE.
 
 ## Badges
 
-! [Codesizeinbytes](https://img.shields.io/github/languages/code-size/shernandez927/refactoringassignment?style=for-the-badge)
+![Codesizeinbytes](https://img.shields.io/github/languages/code-size/shernandez927/refactoringassignment?style=for-the-badge)
 
-! [LicenseBadge](https://img.shields.io/github/license/shernandez927/refactoringassignment?style=for-the-badge)
+![LicenseBadge](https://img.shields.io/github/license/shernandez927/refactoringassignment?style=for-the-badge)
 
 
 
