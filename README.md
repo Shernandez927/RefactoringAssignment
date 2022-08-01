@@ -8,6 +8,10 @@
 - Though the initial source code deployed just fine, it presented the problem of not being as readable and user friendly. 
 - I utilized semantic HTML elements to refactor and consolidate code where necessary, thus making the code easier to interpet and potentially refactor where needed.
 
+## Demo
+
+![DemoScreenshot](~/.Horiseon/assets/images/screenshot.png)
+
 
 ## Credits
 
