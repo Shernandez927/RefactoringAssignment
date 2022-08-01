@@ -41,5 +41,11 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+## Badges
+
+! [Codesizeinbytes](https://img.shields.io/github/languages/code-size/shernandez927/refactoringassignment?style=for-the-badge)
+
+! [LicenseBadge](https://img.shields.io/github/license/shernandez927/refactoringassignment?style=for-the-badge)
+
 
 
