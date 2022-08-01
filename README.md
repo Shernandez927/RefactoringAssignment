@@ -10,7 +10,7 @@
 
 ## Demo
 
-![DemoScreenshot](~/.Horiseon/assets/images/screenshot.png)
+![DemoScreenshot](/assets/images/screenshot.png)
 
 
 ## Credits
