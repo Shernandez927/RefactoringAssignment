@@ -17,7 +17,7 @@ https://shernandez927.github.io/RefactoringAssignment/
 
 ## Credits
 
-Source Code provided by Coding BootCamp at UT Austin
+Source Code provided by Coding BootCamp at UT Austin at https://github.com/coding-boot-camp/urban-octo-telegram
 
 ## License
 
